@@ -4,6 +4,7 @@ Language Features:
 
 
 Compiler Features:
+ * Export compiler-generated utility sources via standard-json or combined-json.
  * SMTChecker: Support structs.
  * Yul Optimizer: Prune unused parameters in functions.
 
