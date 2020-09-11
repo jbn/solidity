@@ -8,6 +8,7 @@ Compiler Features:
  * SMTChecker: Support structs.
  * Yul Optimizer: Prune unused parameters in functions.
  * Yul Optimizer: Try to simplify function names.
+ * Yul IR Generator: Report source locations related to unimplemented features.
 
 
 Bugfixes:
